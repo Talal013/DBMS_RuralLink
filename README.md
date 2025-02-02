@@ -1,1 +1,2 @@
-# DBMS_RuralLink
+# rurallink-job-portal
+That is the varsity student's project.
